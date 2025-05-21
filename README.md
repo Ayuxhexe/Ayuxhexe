@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayuxhexe
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ... rathoreayush878@gmail.com
